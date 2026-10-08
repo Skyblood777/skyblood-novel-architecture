@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {
+      "id": "char_01",
+      "name": "Tina",
+      "origin": "Munich, Germany",
+      "current_location": "East London, UK",
+      "attributes": {
+        "bloodline": "Pure/Unbroken Celestial",
+        "power_signature": "Golden Light / Impulse Response",
+        "status": "Awakening (Chapter 3)"
+      },
+      "relations": {
+        "mother": "Protector / Fugitive from Heaven",
+        "guardian_angel": "Lino (Bound since age 5)"
+      }
+    },
+    {
+      "id": "char_02",
+      "name": "Lino",
+      "classification": "Half-Angel (Fallen Lineage)",
+      "attributes": {
+        "appearance": "Dark hair, silver glowing eyes under stress",
+        "abilities": "Unhuman speed, memory sealing, liquid silver aura",
+        "weakness": "Proximity to Tina amplifies energy signature"
+      }
+    }
+  ]
+}
